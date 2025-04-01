@@ -11,7 +11,9 @@ This is a simple **Weather App** built using **Kotlin** and **Jetpack Compose**,
 
 ## Screenshots
 
-![Weather App Screenshot](AS1.png)
+![Weather App Screenshot](s1.png)
+![Weather App Screenshot](s2.png)
+![Weather App Screenshot](s3.png)
 
 ## Tech Stack
 - **Language:** Kotlin
